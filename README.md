@@ -23,3 +23,13 @@ To transition into a data-driven company, AtliQ Hardware decided to move to a sc
 ✅ Data Visualization: Transformed raw insights into clear, impactful visuals using Power BI.
 ✅ Storytelling with Data: Created a video presentation to communicate insights effectively, bridging the gap between analysis and decision-making.
 
+## 👉 Important Links:
+- [Linkedin Post](https://www.linkedin.com/posts/saurabhchunekar_dataanalysis-powerbi-sql-activity-7294994443483410432-gLMG?utm_source=share&utm_medium=member_desktop)
+- [Project presentation video](https://www.youtube.com/embed/wWswoM6H9Fg?si=I5NZvXF0_YtJ3v_x)
+
+## Contact
+- [Linkedin profile](https://www.linkedin.com/in/saurabhchunekar)
+- [Portfolio](https://codebasics.io/portfolio/Saurabh-Chunekar)
+- [Email](mailto:dataanalystsaurabh@gmail.com)
+
+Thank you!
